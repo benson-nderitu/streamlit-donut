@@ -1,3 +1,5 @@
+[![PyPI version](https://badge.fury.io/py/your-package-name.svg)](https://pypi.org/project/streamlit-donut/)
+
 
 `streamlit-donut` is a Streamlit component for rendering customizable donut charts/metrics. This package allows you to easily create visually appealing donut charts/metrics in your Streamlit applications.
 
